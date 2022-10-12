@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KanjiPhoneticAnalysis": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)\\Environment"
+    }
+  }
+}
